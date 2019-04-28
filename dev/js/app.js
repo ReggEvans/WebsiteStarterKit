@@ -1,0 +1,2 @@
+// JavaScript
+window.sr = ScrollReveal();
